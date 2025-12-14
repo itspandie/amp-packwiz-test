@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Port",
+        "Category": "Server Settings",
+        "Description": "Port for the Packwiz AutoUpdater",
+        "Keywords": "port",
+        "FieldName": "-p",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "-p",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "25567",
+        "Placeholder": "25567",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
